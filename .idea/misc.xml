@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bottom_sheet_bg.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable-v24/main_relative_bg.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/carddropdown_bg.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_baseline_airplanemode_active_24.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_car.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_card.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_hotel.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_plane.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_transport.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/ic_vehicle.xml" value="0.1515" />
+        <entry key="app/src/main/res/layout/activity_category_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/category_dt_row.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/category_row.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/custom_bottom_sheet.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/month_dropdown_item.xml" value="0.31023550724637683" />
+        <entry key="app/src/main/res/layout/year_dropdown_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
